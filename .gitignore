@@ -31,4 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## Customized on local ###
 .DS_Store
+**/twitter4j.properties
+**/logs
