@@ -1,0 +1,7 @@
+to run kafkacat on docker:
+docker run -it --network=host confluentinc/cp-kafkacat kafkacat -L -b localhost:19092
+ to run it: kcat -L -b localhost:19092
+
+ Kafka-model: create and hold Java Objects for Kafka in Avro format
+ Kafka-admin: create and verify kafka topics programmatically and also checks if topics are created
+ Kafka-producer: use spring-kafka to write kafka producer implementation
