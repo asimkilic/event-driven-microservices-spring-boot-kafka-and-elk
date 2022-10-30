@@ -36,3 +36,4 @@ build/
 .DS_Store
 **/twitter4j.properties
 **/logs
+**/.env
